@@ -6,7 +6,7 @@
 
 #### Build Tool
 
-[Vite](https://vitejs.dev)<br/>
+[Next.js](https://nextjs.org/)<br/>
 
 #### Routing
 
